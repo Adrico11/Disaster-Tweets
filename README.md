@@ -4,6 +4,8 @@
 Build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t
 The scores mentioned below are thos obtained on a submission test sample and correspond to the f1-scores of my predictions
 
+Here is the link to the competition : https://www.kaggle.com/c/nlp-getting-started/overview
+
 ### Contents of the files in this repo
 The three jupyter notebooks in this repo each contain a different approach to solving this problem, with increasing complexity :
 - Kaggle ML.ipynb : machine learning models (Logistic regression, Naive Bayes, K-Nearest Neighbours, Random forest, Gradient Boosting...) benchmarked (Best : 0.79313 with a Naive Bayes model) 
