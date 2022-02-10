@@ -1,4 +1,4 @@
-## Disaster Tweets Classification (Kaggle competition) - Best result in the TOP 10% of submissions)
+## Disaster Tweets Classification (Kaggle competition) - Best result in the TOP 10% of submissions
 
 ### Goal of the project
 Build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t
