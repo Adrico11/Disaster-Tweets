@@ -12,7 +12,9 @@ The three jupyter notebooks in this repo each contain a different approach to so
 - Kaggle DL.ipynb : implementation of deep neural networks for NLP tasks with LSTMs and RNNs (Best : 0.79987 with a Bidirectionnal RNN model)
 - Kaggle BERT.ipynb : use of a pre-trained transformer for classification with BERT (Best : 0.83450 => **top 10% of submissions !!**)
 
-#### Following are screenshots of training and validation metrics (F1 score and loss) for 2 epochs of training (x-axis : batch number) made with Tensorboard :
+#### Following are screenshots of training and validation metrics (F1 score and loss) for 3 epochs of training (x-axis : batch number) made with Tensorboard :
+Total training time = 12 minutes
+
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/59745916/153378716-3d12dfe1-2d60-4daf-9d20-6cc445c518fb.png">
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/59745916/153378876-3cae6b52-a24e-41fa-b100-37a244a0b442.png">
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/59745916/153378998-6192333d-1a66-42c5-b313-0ef9675f1f27.png">
