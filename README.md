@@ -6,7 +6,7 @@ The scores mentioned below are thos obtained on a submission test sample and cor
 
 Here is the link to the competition : https://www.kaggle.com/c/nlp-getting-started/overview
 
-And here is a direct link to the competitions's leaderboard : https://www.kaggle.com/c/nlp-getting-started/leaderboard#
+And here is a direct link to the competition's leaderboard : https://www.kaggle.com/c/nlp-getting-started/leaderboard#
 
 ### Contents of the files in this repo
 The three jupyter notebooks in this repo each contain a different approach to solving this problem, with increasing complexity :
